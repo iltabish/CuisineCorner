@@ -8,7 +8,7 @@ http://foodie-env.eba-tkjbhhfv.ap-south-1.elasticbeanstalk.com/
 ## Tech Stack
 **Client:** html, css
 
-**Server:** Node, Express
+**Server:** Node.js, Express.js
 
 **Database:** MongoDB
 
