@@ -6,7 +6,7 @@ A brochure website
 http://foodie-env.eba-tkjbhhfv.ap-south-1.elasticbeanstalk.com/
 
 ## Tech Stack
-**Client:** html, css, javascript
+**Client:** html, css
 
 **Server:** Node, Express
 
